@@ -1,0 +1,30 @@
+body{
+    background-image: url("./john-towner-JgOeRuGD_Y4-unsplash.jpg");
+}
+
+#hlm{
+    height: 40px;
+    width: 60px;
+}
+#award{
+    text-align: center;
+}
+a:link {
+    color: rgb(150, 114, 235);
+  }
+  
+  /* visited link */
+ a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+   color: rgb(65, 145, 219);
+   font-size: large;
+  }
+  
+  /* selected link */
+  a:active {
+    color: rgb(33, 51, 134);
+  }
